@@ -1,0 +1,14 @@
+
+{
+  "name": "WiFi Audit Pro 2025",
+  "short_name": "WiFiAudit",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#04c",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
